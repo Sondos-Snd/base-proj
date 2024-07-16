@@ -1,13 +1,8 @@
-# boilerplate
+# base-proj
 
 This is a refrence project that will keep being enriched with new features as I implement them.
 
-## Table of Contents
-
-1- Basic setup
-2- Issues
-
-## Installation
+## Dependencies
 
 - Spring boot 3
 - Mysql db
@@ -51,7 +46,7 @@ cd base-proj
 - rabbitMQ - event-driven arch
 - CI/CD pipeline 
 - Caching - Redis
-- Notification module - email/sms client
+- Notification module - email/sms client - ok
 - Indexing db - stored procedures
 - records
 - pagination
