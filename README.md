@@ -17,13 +17,16 @@ This is a refrence project that will keep being enriched with new features as I 
 - Mapstruct
 - Web MVC
 - Actuator
+- Jakarta
+- Thymeleaf
+- mail
 
 ```bash
 # Clone the repository
 git clone 
 
 # Navigate into the project directory
-cd yourproject
+cd base-proj
 ```
 
 
