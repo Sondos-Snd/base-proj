@@ -23,7 +23,7 @@ This is a refrence project that will keep being enriched with new features as I 
 git clone 
 
 # Navigate into the project directory
-cd yourproject
+cd base-proj
 ```
 
 
